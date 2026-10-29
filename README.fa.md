@@ -27,7 +27,7 @@
 
 ## دانلود (ویندوز)
 
-فایل `SubtitleSyncAI.zip` را از صفحهٔ [Releases](https://github.com/YOUR-USERNAME/subtitle-sync-ai/releases)
+فایل `SubtitleSyncAI.zip` را از صفحهٔ [Releases](https://github.com/morugy2002/subtitle-sync-ai/releases)
 دانلود کنید، از حالت فشرده خارج کنید و `SubtitleSyncAI.exe` را اجرا کنید. مدل MiniLM داخل آن هست
 (حدود ۲۳۰ مگابایت پس از بازکردن).
 
