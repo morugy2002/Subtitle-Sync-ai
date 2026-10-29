@@ -1,0 +1,16 @@
+# environments / build output
+venv/
+build_venv/
+build/
+dist/
+__pycache__/
+*.pyc
+*.spec
+*.zip
+*.7z
+*.rar
+
+# downloaded at runtime - never commit
+models/
+tools/
+settings.json
