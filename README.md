@@ -25,7 +25,7 @@ contains no code from it.
 
 ## Download (Windows)
 
-Get `SubtitleSyncAI.zip` from the [Releases](https://github.com/YOUR-USERNAME/subtitle-sync-ai/releases)
+Get `SubtitleSyncAI.zip` from the [Releases](https://github.com/morugy2002/subtitle-sync-ai/releases)
 page, extract it, and run `SubtitleSyncAI.exe`. The MiniLM model is included (~230 MB unpacked).
 
 ## Usage
